@@ -291,6 +291,7 @@ nav a {
   border-top: 2px dashed #C0C0C0;
   display: flex;
   align-content: space-between;
+  justify-content: space-around;
 }
 .home .content-pick .destination {
   width: 30%;
@@ -312,6 +313,6 @@ nav a {
   display: flex;
   justify-content: center;
   color: #FFFFFF;
-  font-size: 20px;
+  font-size: 15px;
   border-radius: 15px;
 }
